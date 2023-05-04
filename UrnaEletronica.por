@@ -12,6 +12,7 @@ programa
 	escreva("candidatos: \n  1-nick\n  2-meme\n  3-kiki\n  4-branco\n  5-nulo\n   Digite aqui:_")
 	
        leia(numeroCandidato)
+
 	
 		escolha(numeroCandidato){
 		
@@ -51,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 548; 
+ * @POSICAO-CURSOR = 229; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
